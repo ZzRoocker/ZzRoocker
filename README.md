@@ -26,8 +26,8 @@
 
 <div align="center">
  <a href="https;//github.com/ZzRoocker">
-  <img height="150" width="49%" src="https://github-readme-stats.vercel.app/api?username=ZRoocker&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=pt-br&hide_border=false" alt="Gráfico de estatísticas"  />
-  <img height="150" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZRoocker&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=16&theme=nightowl&hide_border=false" alt="Gráfico de idiomas"  />
+  <img height="150" width="49%" src="https://github-readme-stats.vercel.app/api?username=ZRoocker&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" alt="statistic graph"  />
+  <img height="150" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZRoocker&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=16&theme=nightowl&hide_border=false" alt="language graph"  />
 </div>
 
 ###
